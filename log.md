@@ -10,7 +10,13 @@
 
 <!--**Link to work:** [BooksToRead2017 React-Redux App](http://www.designwithmath.com/BooksToRead2017) -->
 
+### Day 2: January 4, 2017
 
+**Today's Progress**: Practiced a React-Redux App that pulls data from Google Books API.               
+
+**Thoughts:** The App is more dynamic than the previous one. This app makes the AJAX calls using axios library to Google Api and makes the list of Books using the user's Search term. Understood the concept of Middleware (Redux-Promise) and the data flow.
+
+**Link to work:** Coming Soon
 
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
